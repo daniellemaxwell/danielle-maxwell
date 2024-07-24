@@ -25,6 +25,7 @@ params:
 
   ShowReadingTime: true
   ShowShareButtons: true
+  ShareButtons: ["linkedin", "twitter"]
   ShowPostNavLinks: true
   ShowBreadCrumbs: true
   ShowCodeCopyButtons: false
@@ -83,21 +84,16 @@ params:
 
   analytics:
     google:
-      SiteVerificationTag: "XYZabc"
-    bing:
-      SiteVerificationTag: "XYZabc"
-    yandex:
-      SiteVerificationTag: "XYZabc"
+      SiteVerificationTag: "G-ZW3MNE13E0"
+    #bing:
+      #SiteVerificationTag: "XYZabc"
+    #yandex:
+      #SiteVerificationTag: "XYZabc"
 
   cover:
     hidden: true # hide everywhere but not in structured data
     hiddenInList: true # hide on list pages and home
     hiddenInSingle: true # hide on single page
-
-  editPost:
-    URL: "https://github.com/<path_to_repo>/content"
-    Text: "Suggest Changes" # edit text
-    appendFilePath: true # to append file path to Edit link
 
   # for search
   # https://fusejs.io/api/options.html
