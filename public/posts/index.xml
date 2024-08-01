@@ -1,25 +1,19 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on Danielle Maxwell</title>
-    <link>http://localhost:1313/posts/</link>
+    <link>//localhost:1313/posts/</link>
     <description>Recent content in Posts on Danielle Maxwell</description>
-    <image>
-      <title>Danielle Maxwell</title>
-      <url>http://localhost:1313/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
-      <link>http://localhost:1313/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
-    </image>
-    <generator>Hugo -- 0.129.0</generator>
+    <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 23 Jul 2024 21:12:07 -0400</lastBuildDate>
-    <atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 31 Jul 2024 22:30:37 -0400</lastBuildDate>
+    <atom:link href="//localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>My First Blog Post</title>
-      <link>http://localhost:1313/posts/test-post/</link>
-      <pubDate>Tue, 23 Jul 2024 21:12:07 -0400</pubDate>
-      <guid>http://localhost:1313/posts/test-post/</guid>
-      <description>Hey, it&amp;rsquo;s my very first blog post. I&amp;rsquo;m writing gibberish mainnly to see how this will look on the page before I really write some of my thoughts.
-Ok, here&amp;rsquo;s another lines. Again, we&amp;rsquo;re just testing things out to see how it all looks so taht we can be prepared for it all. A little more gibberish. I gotta remember how to write Markdown. I should definitely save a cheatsheet somewhere.</description>
+      <title>Getting Comfortable With Communicating</title>
+      <link>//localhost:1313/posts/getting-comfortable-with-communicating/</link>
+      <pubDate>Wed, 31 Jul 2024 22:30:37 -0400</pubDate>
+      <guid>//localhost:1313/posts/getting-comfortable-with-communicating/</guid>
+      <description></description>
     </item>
   </channel>
 </rss>

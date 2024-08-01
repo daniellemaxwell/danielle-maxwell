@@ -1,0 +1,59 @@
+baseURL = '/'
+languageCode = 'en-us'
+title = 'Danielle Maxwell'
+theme = 'typo'
+
+[taxonomies]
+tag = 'tags'
+
+# Google analytics code
+googleAnalytics = "G-ZW3MNE13E0"
+
+[params]
+# Meta description
+description = "A Tech Blog"
+
+# Appearance settings
+theme = 'auto'
+colorPalette = 'default'
+hideHeader = false
+
+# Intro on main page, content is markdown
+homeIntroTitle = "Hi!"
+homeIntroContent = """
+Welcome to my collection of thoughts on things that may or may not be related to software engineering.
+"""
+
+# Collection to display on home
+homeCollectionTitle = 'Posts'
+homeCollection = 'posts'
+
+# Lists parameters
+paginationSize = 100
+listSummaries = true
+listDateFormat = 'Jan 2 2006'
+
+# Breadcrumbs
+breadcrumbs = true
+
+# Social icons
+[[params.social]]
+name = "linkedin"
+url = "https://www.linkedin.com/in/daniellemaxwell/"
+
+[[params.social]]
+name = "github"
+url = "https://github.com/daniellemaxwell"
+
+[[params.social]]
+name = "twitter"
+url = "https://twitter.com/thedanimaxwell"
+
+# Main menu pages
+[[params.menu]]
+name = "home"
+url = "/"
+
+[[params.menu]]
+name = "posts"
+url = "/posts"
