@@ -2,6 +2,9 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>//localhost:1313/tags/career/</loc>
+    <lastmod>2024-07-31T22:30:37-04:00</lastmod>
+  </url><url>
     <loc>//localhost:1313/posts/getting-comfortable-with-communicating/</loc>
     <lastmod>2024-07-31T22:30:37-04:00</lastmod>
   </url><url>
@@ -11,8 +14,12 @@
     <loc>//localhost:1313/posts/</loc>
     <lastmod>2024-07-31T22:30:37-04:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/g-zw3mne13e0/</loc>
-  </url><url>
     <loc>//localhost:1313/tags/</loc>
+    <lastmod>2024-07-31T22:30:37-04:00</lastmod>
+  </url><url>
+    <loc>//localhost:1313/tags/thoughts/</loc>
+    <lastmod>2024-07-31T22:30:37-04:00</lastmod>
+  </url><url>
+    <loc>//localhost:1313/g-zw3mne13e0/</loc>
   </url>
 </urlset>

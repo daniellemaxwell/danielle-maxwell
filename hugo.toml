@@ -11,7 +11,7 @@ googleAnalytics = "G-ZW3MNE13E0"
 
 [params]
 # Meta description
-description = "A Tech Blog"
+description = "Occasionally serving thoughts."
 
 # Appearance settings
 theme = 'auto'
@@ -30,8 +30,11 @@ homeCollection = 'posts'
 
 # Lists parameters
 paginationSize = 100
-listSummaries = true
+listSummaries = false
 listDateFormat = 'Jan 2 2006'
+
+# Single page parameters
+hideBackToTop = true
 
 # Breadcrumbs
 breadcrumbs = true
