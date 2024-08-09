@@ -1,7 +1,7 @@
 +++
 title = 'Remote Worker Isolation'
 date = 2024-08-08T23:23:32-04:00
-draft = false
+draft = true
 tags = ["remote work"]
 showTags = true
 +++
