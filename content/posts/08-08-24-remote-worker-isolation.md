@@ -1,26 +1,27 @@
 +++
-title = 'Remote Worker Isolation'
+title = 'Dealing With Remote Worker Isolation'
 date = 2024-08-08T23:23:32-04:00
-draft = true
-tags = ["remote work"]
+draft = false
+tags = ["remote work", "mental health"]
 showTags = true
 +++
 
-I've been working from home for about 6 years. Before I became a software developer, I taught English as a second/foreign language online for a few years. I loved the flexibility and when I made the decision to not only switch careers but also give up being self-employed, finding a remote gig was priority for me. 
+I've been working from home for about six years. Before I became a software developer, I taught English as a second/foreign language online for a few years. It's been so long since I last worked in a traditional office setting that working remotely has essentially become the norm for me.
 
-Thankfully, I was offered a role with a company that's fully distributed. I was definitely ecstatic about keeping some semblance of normality because it had been a while since I last worked in an office setting (fingers crossed I never have to go back).
+I love all the benefits that come with working from home. I don't have to sit in Atlanta traffic, I can wear shorts all day, and no one will look at me strangely when I talk to myself out loud.
 
-Since I primarily worked with adult students who wanted to improve their conversational skills, I used to talk a lot. 
+Of course, with everything there are pros and cons. In my opinion, one of the main drawbacks of working from home is that it can be isolating. When I taught, there were days where I realized that I was barely making time to have conversations outside of the ones I was being paid to have.
 
-The lessons would range from 30 minutes to an hour. I even once had a student who preferred 90 minutes lessons. When I made unwise scheduling decisions, I could easily end up having 9 conversations a day.
+Now, as a software developer, some days I don't interact much with my team. This isn't necessarily a bad thing because I enjoy having days without meetings. 
 
-All of this to say that it was a bit of a shock to my system when I wasn't interacting with others anywhere near as much after I started my job. 
+Don't get me wrong, I like my colleagues (no I didn't write that because some of them may read this), but it's also nice to have a day where I can focus on whatever I'm working on.
 
-In the beginning, there was onboarding and I had some co-working sessions. There were meetings and I know there were several "I need help with x" calls, but it wasn't the same.
+Overcoming isolation can be a struggle and there could be other factors contributing to it beyond working remotely. I'm definitely not an expert here, but in my experience, joining a group activity is a great way to socialize.
 
-Everyone has work to do and having the time to focus on it is important. In fact, I even enjoy my no meeting days. At the same time, it can be difficult to adjust to.
+As an example, I joined a weightlifting group a few years ago. Not only did I get into a regular habit of exercise, but I also got to be around others who also wanted to talk about terrible reality TV shows.
 
-So, how do I avoid feeling isolated. In my experience, this has been the perfect excuse to find a new hobby. While working from home, I joined a weightlifting group. Working out with others for 2 hours a week such a positive impact on my mental health.
+Making time to regularly meet up with a colleague and not talk about work may also be helpful. Just because you're co-workers it doesn't mean that you can't make time to have non-work conversations. Eating lunch together or just having a chat once a week are great ways to interact.
+
 
 
 
