@@ -1,26 +1,19 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Posts on Danielle Maxwell</title>
-    <link>//localhost:1313/posts/</link>
-    <description>Recent content in Posts on Danielle Maxwell</description>
+    <title>Remote Work on Danielle Maxwell</title>
+    <link>//localhost:1313/tags/remote-work/</link>
+    <description>Recent content in Remote Work on Danielle Maxwell</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Thu, 08 Aug 2024 23:23:32 -0400</lastBuildDate>
-    <atom:link href="//localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="//localhost:1313/tags/remote-work/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Remote Worker Isolation</title>
       <link>//localhost:1313/posts/08-08-24-remote-worker-isolation/</link>
       <pubDate>Thu, 08 Aug 2024 23:23:32 -0400</pubDate>
       <guid>//localhost:1313/posts/08-08-24-remote-worker-isolation/</guid>
       <description>I&amp;rsquo;ve been working from home for about 6 years. Before I became a software developer, I taught English as a second/foreign language online for a few years. I loved the flexibility and when I made the decision to not only switch careers but also give up being self-employed, finding a remote gig was priority for me.&#xA;Thankfully, I was offered a role with a company that&amp;rsquo;s fully distributed. I was definitely ecstatic about keeping some semblance of normality because it had been a while since I last worked in an office setting (fingers crossed I never have to go back).</description>
-    </item>
-    <item>
-      <title>Getting Comfortable With Communicating</title>
-      <link>//localhost:1313/posts/getting-comfortable-with-communicating/</link>
-      <pubDate>Wed, 31 Jul 2024 22:30:37 -0400</pubDate>
-      <guid>//localhost:1313/posts/getting-comfortable-with-communicating/</guid>
-      <description>Next month, I will have been at the company that pays me for two years. I have grown so much over the past couple of years, and with this anniversary approaching I have been reflecting on areas for personal and professional improvement.&#xA;There are so many things I&amp;rsquo;d like to do and one is to become a better communicator. I&amp;rsquo;m not terrible or anything like that, but talking is so hard.</description>
     </item>
   </channel>
 </rss>
