@@ -1,26 +1,19 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Posts on Danielle Maxwell</title>
-    <link>//localhost:1313/posts/</link>
-    <description>Recent content in Posts on Danielle Maxwell</description>
+    <title>Programming on Danielle Maxwell</title>
+    <link>//localhost:1313/tags/programming/</link>
+    <description>Recent content in Programming on Danielle Maxwell</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Fri, 16 Aug 2024 06:14:47 -0400</lastBuildDate>
-    <atom:link href="//localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="//localhost:1313/tags/programming/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Even If You Don&#39;t Build It, They Will Come</title>
       <link>//localhost:1313/posts/2024-08-16-even-if-you-dont-build-it-they-will-come/</link>
       <pubDate>Fri, 16 Aug 2024 06:14:47 -0400</pubDate>
       <guid>//localhost:1313/posts/2024-08-16-even-if-you-dont-build-it-they-will-come/</guid>
       <description>It has recently come to my attention that I often find reasons to create a website. Before learning how to code, I would make a WordPress site once I had an idea for anything.&#xA;None of these ideas went anywhere, btw. Marketing is important, but that&amp;rsquo;s a topic for another day.&#xA;Earlier this week, a chat with a friend somehow led to us deciding to host an event. Not long into the discussion I thought, &amp;ldquo;Dang, I gotta create another website.</description>
-    </item>
-    <item>
-      <title>Getting Comfortable With Communicating</title>
-      <link>//localhost:1313/posts/getting-comfortable-with-communicating/</link>
-      <pubDate>Wed, 31 Jul 2024 22:30:37 -0400</pubDate>
-      <guid>//localhost:1313/posts/getting-comfortable-with-communicating/</guid>
-      <description>Next month, I will have been at the company that pays me for two years. I have grown so much over the past couple of years, and with this anniversary approaching I have been reflecting on areas for personal and professional improvement.&#xA;There are so many things I&amp;rsquo;d like to do and one is to become a better communicator. I&amp;rsquo;m not terrible or anything like that, but talking is so hard.</description>
     </item>
   </channel>
 </rss>
