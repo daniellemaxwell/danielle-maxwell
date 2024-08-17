@@ -15,7 +15,7 @@ description = "Occasionally serving thoughts."
 
 # Appearance settings
 theme = 'auto'
-colorPalette = 'default'
+colorPalette = 'catpuccin'
 hideHeader = false
 
 # Intro on main page, content is markdown
